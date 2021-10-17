@@ -11,7 +11,7 @@ By Applying EDA the following questions will be answered:
 
 To view the dataset click [here](https://www.kaggle.com/gauthamp10/google-playstore-apps) 
 
-In this project we have the following submission:
+This project has the following submission:
 
 1- [Proposal](https://github.com/shouq-AI/DSCamp/blob/main/Proposal_1.pdf) 
 

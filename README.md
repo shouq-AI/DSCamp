@@ -13,7 +13,7 @@ To view the dataset click [here](https://www.kaggle.com/gauthamp10/google-playst
 
 This project has the following submission:
 
-1- [Proposal](https://github.com/shouq-AI/DSCamp/blob/main/Proposal_1.pdf) 
+1- [Proposal](Proposal.pdf) 
 
 2- [MVP](https://github.com/shouq-AI/DSCamp/blob/main/mvp.ipynb) 
 

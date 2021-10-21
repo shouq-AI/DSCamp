@@ -17,4 +17,6 @@ This project has the following submission:
 
 2- [MVP](https://github.com/shouq-AI/DSCamp/blob/main/mvp.ipynb) 
 
-3- Final Submission 
+3- Final Submission
+  - [Presentation](YourFutureApp_FinalVersion/YourFutureApp_project.pptx)
+  - Final Code
